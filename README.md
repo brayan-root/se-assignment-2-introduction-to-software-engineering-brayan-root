@@ -7,10 +7,10 @@ Answer the following questions based on your understanding of software engineeri
 
 Questions:
 Define Software Engineering:
-Software Engineering is a branch of computer science that deals with the design, development, testing, and maintenance of applications using engineering principles and programming language knowledge.
+Software Engineering: is a branch of computer science that deals with the design, development, testing, and maintenance of applications using engineering principles and programming language knowledge.
 
 What is software engineering, and how does it differ from traditional programming?
-Traditional Programming refers to conventional methods and paradigms of writing software codes characterized by writing explicit instructions for the computer to perform, focusing on how task are accomplished.
+Traditional Programming: refers to conventional methods and paradigms of writing software codes characterized by writing explicit instructions for the computer to perform, focusing on how task are accomplished.
 
 
 Difference categorization
@@ -112,59 +112,50 @@ ous steps hence waterfall.
 
 Waterfall Model
 Agile Model
-
-
-
-
-
-
-Roles
+Roles:
 Assigns roles to project team members, with specific duties and responsibilities defined for each team member.
 Empowers team members to collaborate on different aspects of the project over time, leading to a more self-organizing team structure.
-Planning
+Planning;
 Planning is a linear process done at the beginning of the project, with all requirements and objectives laid out in detail upfront.
 Planning is a continuous process throughout the project's life cycle, with adjustments made as new information or requirements emerge.
-Scope
+Scope;
 Discourages changes to the project's scope because the methodology requires an extensive amount of time spent in the beginning trying to get the plan right, which can make changes costlier after the project has begun.
 Agile is more adaptable to changes in scope, with the development team able to adjust quickly as requirements change.
-Time frames
+Time frames;
 Designed for long-term projects with predetermined timelines.
 Uses short iterations to deliver value rapidly, allowing teams to adjust plans over time and achieve shorter time frames.
-Speed
+Speed;
 Waterfall projects tend to take longer because all requirements must be agreed upon before development can begin.
 Agile projects, on the other hand, are usually delivered more rapidly than waterfall projects due to the iterative development cycles used in agile.
-Delivery
+Delivery;
 Waterfall requires the completion of all tasks before any work can be released.
 Agile allows for quick delivery of projects with shorter lifecycles, as each iteration delivers a workable product.
-Flexibility
+Flexibility;
 Waterfall is less flexible and resistant to change once the project's scope has been defined.
 Agile encourages teams to respond quickly and adaptively to changes during the development process.
-Testing
+Testing;
 In waterfall, testing is usually done at specific milestones, often towards the end of the project.
 Agile emphasizes incremental testing to identify and resolve issues throughout the development process.
-Documentation
+Documentation;
 Waterfall, in contrast, relies heavily on documenting each step-in detail to ensure that all team members are on the same page.
 Agile relies on minimal documentation, focusing on self-organizing teams and collaboration.
-Communication
+Communication;
 In waterfall, communication is more formal, with detailed communication plans and progress reports shared across multiple stakeholders.
 Agile emphasizes informal communication, with frequent interactions between individuals or small groups of stakeholders.
 
 Requirements Engineering:
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
-
- Requirements engineering is the process of identifying, eliciting, analyzing, specifying, validating, and managing the needs and expectations of stakeholders for a software system.
- The requirements engineering process involves several stages aimed at understanding, documenting, validating, and managing the needs for a software system. Here’s a summary of each stage:
+Requirements engineering; is the process of identifying, eliciting, analyzing, specifying, validating, and managing the needs and expectations of stakeholders for a software system.
+The requirements engineering process involves several stages aimed at understanding, documenting, validating, and managing the needs for a software system. Here’s a summary of each stage:
 Feasibility Study:
 Technical Feasibility: Assesses the availability of required technology, resources, and the technical team’s capabilities.
 Operational Feasibility: Analyzes how well the software will meet user needs and how easy it will be to operate and maintain.
 Economic Feasibility: Evaluates the cost-benefit aspect to determine if the project is financially viable.
 Legal Feasibility: Reviews legal constraints and implications.
 Requirements Elicitation:
-
 This involves gathering information about stakeholder needs and expectations using techniques like interviews, surveys, focus groups, observation, and prototyping. The goal is to understand the problem and broaden the domain knowledge of the analysts.
 Requirements Specification:
-
 This stage produces formal models of the requirements, including functional and non-functional requirements and constraints. Common models include ER diagrams, DFDs, and FDDs. The result is a clear and comprehensive requirements document, which should be understandable by both the development team and stakeholders.
 Requirements Verification and Validation (V&V):
 
@@ -363,12 +354,6 @@ Radack, S. (2009). The system development life cycle (sdlc) (No. ITL Bulletin Ap
 Glass, R. L., Vessey, I., & Ramesh, V. (2002). Research in software engineering: an analysis of the literature. Information and Software technology, 44(8), 491-506.
 Biable, S. E., Garcia, N. M., Midekso, D., & Pombo, N. (2022). Ethical issues in software requirements engineering. Software, 1(1), 31-52.
 Chatgpt
-
-
-
-
-
-
 
 
 
